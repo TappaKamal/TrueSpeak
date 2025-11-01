@@ -1,10 +1,5 @@
 
 
-```bash
-git clone https://github.com/mendsalbert/lingua-speak.git
-cd truespeak
-```
-
 **Installation**
 
 Install the project dependencies using npm:
